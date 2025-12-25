@@ -1,0 +1,7 @@
+{
+  "name": "FFH4X Ultra Companion",
+  "description": "A high-performance gaming utility dashboard for sensitivity calibration, crosshair customization, and AI-powered strategic coaching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
